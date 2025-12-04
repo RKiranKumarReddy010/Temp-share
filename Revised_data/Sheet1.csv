@@ -1,0 +1,51 @@
+Key_new,Recent Trend Category,Long-term Trend Category,Alert,Forecast Summary
+Chain 6_Depot 4_SKU 9,Growing,Stable,No Alert,No alert: Recent actual (2.9K) normal for recent patterns. Forecasts align with recent growth and stable long-term trend.
+Chain 6_Depot 2_SKU 21,Growing,Stable,Alert,Alert: November actual (97K) and December (256K) unusually high. Forecasts show decline vs last year's strong performance.
+Chain 6_Depot 9_SKU 21,Growing,Stable,Alert,Alert: Recent actual (32.5K) unusually high vs recent months. Forecasts show decline but long-term trend remains stable.
+Chain 6_Depot 5_SKU 20,Decline,Stable,No Alert,No alert: Recent actual (7K) aligns with recent patterns. Forecasts show decline but long-term trend remains stable.
+Chain 6_Depot 4_SKU 8,Decline,Stable,Alert,Alert: Recent actual (52) unusually low vs recent months. Forecasts show decline but long-term trend remains stable.
+Chain 6_Depot 4_SKU 14,Growing,Stable,Alert,"Alert: Recent actual (949) unusually high vs recent months. Forecasts show modest growth, but last year had 0 demand."
+Chain 6_Depot 5_SKU 14,Growing,Stable,Alert,Alert: Recent actual (1.99K) unusually high vs last year. Forecasts show decline but recent growth trend remains.
+Chain 6_Depot 5_SKU 26,Stable,Stable,Alert,Alert: Recent actual (0) unusually low vs last year. Forecasts show slight increase but remain below historical averages.
+Chain 6_Depot 4_SKU 25,Stable,Stable,Alert,Alert: December actual (114) unusually high vs last year. Forecasts show modest growth but remain below recent spikes.
+Chain 1_Depot 1_SKU 1,Stable,Decline,No Alert,No alert: Recent actual (0) aligns with stable trend. Forecasts show recovery with January (1K) up from last year (1.5K).
+Chain 1_Depot 1_SKU 15,Decline,Decline,No Alert,No alert: Recent actual (222K) low compared to recent averages. Forecasts show decline but remain higher than last year's performance.
+Chain 1_Depot 1_SKU 19,Decline,Stable,No Alert,"No alert: Recent actual (566) normal for recent patterns. Forecasts show recovery with January at 7.2K, stable long-term trend."
+Chain 3_Depot 3_SKU 3,Decline,Decline,No Alert,No alert: Recent actual (7.2K) normal vs recent months. Forecasts show slight recovery but overall decline trend persists.
+Chain 3_Depot 3_SKU 9,Stable,Decline,No Alert,No alert: Recent actual (18K) normal for recent patterns. Forecasts show recovery but long-term decline remains.
+Chain 3_Depot 3_SKU 22,Growing,Stable,Alert,Alert: Recent actual (11.6K) unusually low vs recent months. Forecasts show significant decline compared to last year's zero demand.
+Chain 3_Depot 3_SKU 23,Growing,Stable,Alert,Alert: Recent actual (12K) unusually high vs recent months. Forecasts show decline but long-term trend remains stable.
+Chain 5_Depot 4_SKU 5,Decline,Decline,No Alert,No alert: Recent actual (1.4K) low compared to last year (3.3K). Forecasts show slight recovery but overall decline trend persists.
+Chain 5_Depot 2_SKU 6,Decline,Decline,No Alert,"No alert: Recent actual (557) low compared to last year's (2.0K). Forecasts show continued decline, aligning with long-term trends."
+Chain 5_Depot 2_SKU 7,Decline,Decline,No Alert,No alert: Recent actual (113) low vs L3M (848) average. Forecasts show recovery but still below last year's (1.9K) levels.
+Chain 5_Depot 6_SKU 8,Decline,Growing,Alert,Alert: Recent actual (369) unusually low vs recent months. Forecasts show recovery but still below last year's levels.
+Chain 5_Depot 7_SKU 8,Decline,Growing,No Alert,No alert: Recent actual (2.7K) normal for recent patterns. Forecasts show recovery with long-term growth despite recent decline.
+Chain 5_Depot 7_SKU 3,Decline,Decline,No Alert,"No alert: Recent actual (44) significantly low vs recent averages. Forecasts show decline, but long-term trend remains stable."
+Chain 5_Depot 6_SKU 10,Decline,Growing,No Alert,No alert: Recent actual (2.4K) aligns with last year's performance. Forecasts show recovery with long-term growth expected.
+Chain 5_Depot 6_SKU 11,Growing,Decline,No Alert,No alert: Recent actual (3.9K) aligns with recent growth. Forecasts show variability but reflect long-term decline compared to last year.
+Chain 5_Depot 7_SKU 13,Decline,Decline,No Alert,No alert: Recent actual (4.2K) normal for recent patterns. Forecasts show decline vs last year's (12.1K) performance.
+Chain 5_Depot 4_SKU 7,Decline,Decline,No Alert,No alert: Recent actual (268) normal for recent patterns. Forecasts show decline vs last year's (403) performance.
+Chain 5_Depot 5_SKU 12,Decline,Decline,No Alert,No alert: Recent actual (2.4K) normal for recent patterns. Forecasts show slight recovery but overall decline compared to last year.
+Chain 5_Depot 8_SKU 11,Decline,Stable,No Alert,"No alert: Recent actual (271) low vs last year's (1.8K). Forecasts show recovery potential, but recent decline persists."
+Chain 5_Depot 4_SKU 18,Growing,Stable,No Alert,No alert: Recent actual (2.2K) normal for recent patterns. Forecasts show a decline but align with stable long-term trend.
+Chain 5_Depot 2_SKU 9,Decline,Stable,No Alert,No alert: Recent actual (2.4K) normal for recent patterns. Forecasts show decline but long-term trend remains stable.
+Chain 5_Depot 8_SKU 9,Decline,Stable,No Alert,No alert: Recent actual (806) normal vs last year's (726). Forecasts show decline but long-term trend remains stable.
+Chain 5_Depot 9_SKU 2,Stable,Stable,No Alert,"No alert: Recent actual (0) consistent with zero demand. Forecasts remain stable, reflecting last year's performance."
+Chain 5_Depot 4_SKU 9,Decline,Stable,No Alert,No alert: Recent actual (852) aligns with recent decline. Forecasts show lower demand vs last year but stable long-term trend.
+Chain 5_Depot 7_SKU 14,Decline,Stable,Alert,Alert: Recent actual (71) unusually low vs recent months. Forecasts show recovery but still below last year's levels.
+Chain 2_Depot 2_SKU 2,Decline,Decline,No Alert,No alert: Recent actual (847) low but consistent with recent decline. Forecasts show slight recovery but remain below last year's levels.
+Chain 2_Depot 5_SKU 3,Stable,Decline,No Alert,No alert: Recent actual (0) aligns with recent patterns. Forecasts show recovery with January at (170) vs last year's (198).
+Chain 2_Depot 8_SKU 3,Decline,Decline,No Alert,No alert: Recent actual (479) aligns with declining trend. Forecasts show gradual recovery but remain below last year's levels.
+Chain 2_Depot 2_SKU 14,Growing,Decline,No Alert,No alert: Recent actual (2.3K) normal for recent patterns. Forecasts show decline vs last year's 0.
+Chain 2_Depot 7_SKU 16,Growing,Stable,No Alert,No alert: Recent actual (3.2K) normal for recent patterns. Forecasts show growth aligning with stable long-term trend.
+Chain 2_Depot 2_SKU 17,Stable,Stable,No Alert,No alert: Recent actual (0) consistent with historical data. Forecasts remain stable with no demand changes expected.
+Chain 2_Depot 5_SKU 11,Decline,Stable,No Alert,No alert: Recent actual (270) normal compared to last year's (153). Forecasts show decline but long-term trend remains stable.
+Chain 2_Depot 5_SKU 20,Growing,Stable,Alert,Alert: October actual (9K) unusually high vs recent months. Forecasts show growth but remain below last year's levels.
+Chain 2_Depot 2_SKU 26,Stable,Stable,Alert,Alert: Recent actual (384) unusually high vs last year. Forecasts show modest growth but remain below last year's levels.
+Chain 2_Depot 9_SKU 25,Stable,Stable,Alert,Alert: Recent actual (467) unusually high vs last year. Forecasts show modest growth but remain below historical averages.
+Chain 4_Depot 2_SKU 4,Growing,Growing,Alert,Alert: Recent actual (3.7K) unusually low vs recent months. Forecasts show growth vs last year's 0.
+Chain 4_Depot 2_SKU 3,Growing,Decline,Alert,"Alert: Recent actual (5.3K) unusually low vs recent months. Forecasts show decline despite recent growth, last year was 0."
+Chain 4_Depot 6_SKU 10,Growing,Growing,Alert,"Alert: Recent actual (1.3K) unusually high vs last year. Forecasts show growth, but values are significantly above previous year's zero."
+Chain 4_Depot 7_SKU 12,Growing,Decline,No Alert,No alert: Recent actual (1K) aligns with recent growth. Forecasts show decline vs last year's (495) seasonal performance.
+Chain 4_Depot 6_SKU 24,Growing,Stable,Alert,Alert: Recent actual (1.8K) unusually low vs recent months. Forecasts show slight growth but remain below last year's levels.
+Chain 4_Depot 6_SKU 25,Stable,Stable,Alert,Alert: Recent actual (1.6K) unusually high vs recent months. Forecasts show modest growth but last year was 0.
